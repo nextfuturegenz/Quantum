@@ -30,7 +30,7 @@ const AuthLayout = (props: Props): JSX.Element => {
     return (
         <HeaderStyle>
             <RouterLink to="/">
-                <Logo />
+                {/* <Logo /> */}
             </RouterLink>
 
             <MHidden width="smDown">
